@@ -151,7 +151,7 @@ header .navigation:hover ul {
 /*-- Hero Section --*/
 .hero {
     height: 92vh;
-    background: url("../images/hero.jpg");
+    background: url("hero.jpg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
